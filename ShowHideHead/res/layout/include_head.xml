@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/id_head_container"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="#6570da"
+    android:paddingLeft="15dp"
+    android:gravity="center_vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:textColor="#ffffff"
+        android:text="HEAD"
+        android:textSize="20dp" />
+
+</RelativeLayout>
